@@ -1,0 +1,10 @@
+
+---
+
+## `.gitignore`
+venv/
+pycache/
+*.log
+*.json
+*.yaml
+*.env
